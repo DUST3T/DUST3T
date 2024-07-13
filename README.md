@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**DUST3T/DUST3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+- 🔭 I’m currently working on radar
+- 🌱 I’m currently learning English
+- 👯 I’m looking to collaborate on love
+- 🤔 I’m looking for help with self-confident
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 553669074@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
